@@ -1,0 +1,11 @@
+# Node.js package lock file
+package-lock.json
+
+# C, C++ 설정 파일
+Guide For C, C++.txt
+
+# Node.js modules
+node_modules/
+
+# VS Code 설정 폴더
+.vscode/
